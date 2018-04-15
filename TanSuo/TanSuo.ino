@@ -42,7 +42,6 @@ void setup() {
 bool set = false;
 void loop() {
 
-
 	switch (state)
 	{
 //-------------------------------Set--------------------------------
